@@ -6,7 +6,7 @@ This project is built with the help of AI to learn and practice python.
 - Predict periods
 - Save previous entry dates in a CSV file
 - GUI elements: buttons, progress bar
-- Display information on differnt stages of a menstrual cycle
+- Display information on different stages of a menstrual cycle
 
 **future features**
 - Track symptoms
@@ -16,7 +16,7 @@ This project is built with the help of AI to learn and practice python.
 # project structure
 ```
 PeriodTracker/
-period_tracker.py #Main python program for tracking cycles
-cycle_history.csv #Stores past cycle data
-README.md #Project documentation
+├ period_tracker.py #Main python program for tracking cycles
+├ cycle_history.csv #Stores past cycle data
+└ README.md #Project documentation
 ```
