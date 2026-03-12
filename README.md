@@ -16,7 +16,7 @@ This project is built with the help of AI to learn and practice python.
 # project structure
 ```
 PeriodTracker/
-├ period_tracker.py #Main python program for tracking cycles
-├ cycle_history.csv #Stores past cycle data
-└ README.md #Project documentation
+├─ period_tracker.py #Main python program for tracking cycles
+├─ cycle_history.csv #Stores past cycle data
+└─git add README.md README.md #Project documentation
 ```
