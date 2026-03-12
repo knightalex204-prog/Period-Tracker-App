@@ -11,7 +11,7 @@ This project is built with the help of AI to learn and practice python.
 **future features**
 - Track symptoms
 - Display user data with graphs
-- Mobile driendly version
+- Mobile friendly version
 
 # project structure
 ```
