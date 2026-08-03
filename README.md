@@ -2,6 +2,10 @@
 A python project to track menstrual cycles and predict future periods.
 This project is built with the help of AI to learn and practice python.
 
+## App Preview
+
+![Period Tracker Screenshot](Period-Tracker-App/screenshot.png)
+
 # Features
 - Predict periods
 - Save previous entry dates in a CSV file
