@@ -25,11 +25,10 @@ This project is built with the help of AI to learn and practice python.
 ```bash
 python period_tracker.py
 
-# project structure
-```
+## project structure
+"""
 PeriodTracker/
 ├─ period_tracker.py #Main python program for tracking cycles
 ├─ cycle_history.csv #Stores past cycle data
 └─git add README.md README.md #Project documentation
-```
-
+"""
