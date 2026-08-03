@@ -9,9 +9,22 @@ This project is built with the help of AI to learn and practice python.
 - Display information on different stages of a menstrual cycle
 
 **future features**
+- Create browser friendly version
 - Track symptoms
 - Display user data with graphs
 - Mobile friendly version
+
+## How to Run the Period Tracker App
+
+1. Install Python (3.10+ recommended)
+2. Install required libraries (Tkinter is included with Python)
+3. Download `period_tracker.py` from this repository
+4. Open a terminal in the folder containing the file
+5. Run:
+
+```bash
+python period_tracker.py
+
 
 # project structure
 ```
