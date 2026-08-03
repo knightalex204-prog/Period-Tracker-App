@@ -4,7 +4,7 @@ This project is built with the help of AI to learn and practice python.
 
 ## App Preview
 
-![Period Tracker Screenshot](Period-Tracker-App/screenshot.png)
+![Period Tracker Screenshot](screenshot.png)
 
 # Features
 - Predict periods
