@@ -33,5 +33,3 @@ PeriodTracker/
 └─git add README.md README.md #Project documentation
 ```
 
-## App Preview
-![Period Tracker Screenshot] (screenshot.png)
