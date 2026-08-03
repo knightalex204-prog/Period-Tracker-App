@@ -17,17 +17,18 @@ This project is built with the help of AI to learn and practice python.
 ## How to Run the Period Tracker App
 
 1. Install Python (3.10+ recommended)
-2. Install required libraries (Tkinter is included with Python)
+2. Tkinter is included with Python, so no extra installation is needed
 3. Download `period_tracker.py` from this repository
 4. Open a terminal in the folder containing the file
 5. Run:
+
 ```bash
 python period_tracker.py
-```
-## project structure
-"""
+
+## Project Structure
+
 PeriodTracker/
-├─ period_tracker.py #Main python program for tracking cycles
-├─ cycle_history.csv #Stores past cycle data
-└─git add README.md README.md #Project documentation
-"""
+├─ period_tracker.py      # Main Python program for tracking cycles
+├─ cycle_history.csv      # Stores past cycle data
+└─ README.md              # Project documentation
+
