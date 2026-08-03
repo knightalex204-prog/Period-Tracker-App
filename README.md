@@ -21,7 +21,6 @@ This project is built with the help of AI to learn and practice python.
 3. Download `period_tracker.py` from this repository
 4. Open a terminal in the folder containing the file
 5. Run:
-
 ```bash
 python period_tracker.py
 ```
