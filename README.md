@@ -24,6 +24,3 @@ This project is built with the help of AI to learn and practice python.
 
 ```bash
 python period_tracker.py
-
-
-
